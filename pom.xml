@@ -273,7 +273,7 @@
                             <configuration>
                                 <artifactItems>
                                     <artifactItem>
-                                        <groupId>com.heroku</groupId>
+                                        <groupId>org.example</groupId>
                                         <artifactId>webapp-runner</artifactId>
                                         <version>9.0.52.1</version>
                                         <destFileName>webapp-runner.jar</destFileName>
